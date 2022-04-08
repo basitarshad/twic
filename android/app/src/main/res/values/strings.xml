@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Forma</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">tELsGUlsIVJyIZq3W_DNmmySkFlwKCCecrhY7</string>
+    <string name="splash_logo_description">forma app splash screen logo</string>
+</resources>

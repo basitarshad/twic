@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="splashBackground" type="color">#FFF6E8</item>
+    <color name="status_bar_color">#FFF6E8</color>
+    <color name="notificationColor">#150050</color>
+</resources>

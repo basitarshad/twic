@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/SvgIcons/index.ts"],"names":[],"mappings":"yLAAA","sourcesContent":["export { CalendarSvgIcon } from './CalendarSvgIcon';\n"],"file":"index.js"}

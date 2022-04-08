@@ -1,0 +1,23 @@
+import { Platform } from 'react-native'
+
+const ACTIVITY_SOURCE: "Apple Health" | "Google Fit" = Platform.OS === 'android' ? "Google Fit" : "Apple Health";
+const USER_LAST_SYNC_DATA = 'USER_LAST_SYNC_DATA';
+const EMPLOYEE_ID = 'EMPLOYEE_ID'
+const SAVED_STEP_COUNT = 'SAVED_STEP_COUNT'
+
+const ACTIVITY_TYPES = {
+  MEDITATION_ACTIVITY: 'meditation',
+  STEPS_ACTIVITY: 'steps'
+}
+
+const ACTIVITIES_LIST = [ACTIVITY_TYPES.MEDITATION_ACTIVITY, ACTIVITY_TYPES.STEPS_ACTIVITY]
+
+export default {
+  ACTIVITY_SOURCE,
+  USER_LAST_SYNC_DATA,
+  EMPLOYEE_ID,
+
+  ACTIVITY_TYPES,
+  ACTIVITIES_LIST,
+  SAVED_STEP_COUNT
+}

@@ -1,0 +1,4 @@
+[submodule "src/TwicComponents"]
+	path = src/TwicComponents
+	url = git@github.com:twic-inc/twic_mobile_components.git
+	branch = forma_master

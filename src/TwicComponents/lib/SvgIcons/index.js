@@ -1,0 +1,2 @@
+Object.defineProperty(exports,"__esModule",{value:true});Object.defineProperty(exports,"CalendarSvgIcon",{enumerable:true,get:function get(){return _CalendarSvgIcon.CalendarSvgIcon;}});var _CalendarSvgIcon=require("./CalendarSvgIcon");
+//# sourceMappingURL=index.js.map

@@ -1,0 +1,10 @@
+{
+  "Simulator Target Bundle": "ai.twic.twicapp",
+  "aps": {
+    "alert": {
+      "title": "Push on the simulator",
+      "subtitle": "So cool...",
+      "body": "This notification is going to show up in the simulator!"
+    }
+  }
+}

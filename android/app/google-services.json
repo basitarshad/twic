@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "794547691533",
+    "project_id": "forma-mobile",
+    "storage_bucket": "forma-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794547691533:android:456ac7c318644ca901b544",
+        "android_client_info": {
+          "package_name": "com.joinforma.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794547691533-3iv6pm5juot8nat6c2un7klrtbg4r7ns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcAJAfMuvf1gaqU0V_jyQ4hneWrI_w8Us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794547691533-3iv6pm5juot8nat6c2un7klrtbg4r7ns.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "794547691533-2n5vrlkj2pbnvn6gs3j0pvfpvr2pcgb4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.joinforma.app",
+                "app_store_id": "1611112367"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

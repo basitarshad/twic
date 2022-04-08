@@ -1,0 +1,2 @@
+Object.defineProperty(exports,"__esModule",{value:true});exports.isEmptyOrNil=void 0;var _ramda=require("ramda");var isEmptyOrNil=(0,_ramda.anyPass)([_ramda.isEmpty,_ramda.isNil]);exports.isEmptyOrNil=isEmptyOrNil;
+//# sourceMappingURL=Utilities.js.map
